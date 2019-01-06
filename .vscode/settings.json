@@ -1,0 +1,15 @@
+{
+    "xml.fileAssociations": [
+        {
+            "systemId": "c:\\Users\\Berna\\Documents\\CursosOnline\\UDEMY\\ANGULAR\\angularavanzadoHerrera\\angularadv\\backend-server\\schema\\tns.xsd",
+            "pattern": "**/**/*.xml"
+        }
+    ],
+    "files.exclude": {
+        "schema": true
+    },
+    "eslint.enable": false,
+    "jshint.enable": false,
+    "standard.enable": false,
+    "tslint.enable": false
+}
